@@ -1,8 +1,10 @@
 # Visualization-on-Covid-dataset
 OBJECTIVES/SCOPE OF THE ANALYSIS:-
+
 The Six main objectives that I’ve worked on are as follows:
-**DASHBOARD**
+
 ![image](https://user-images.githubusercontent.com/71726952/231445777-8541c223-a06d-44ba-9fb7-bb69dc1c5d6e.png)
+**DASHBOARD**
 
 LIST OF ANALYSIS WITH RESULTS
 1.	Comparison between Total Cases and Total Death happened country wise.
